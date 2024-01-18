@@ -1,0 +1,4 @@
+# Ignore recursively all folders
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.idea/
