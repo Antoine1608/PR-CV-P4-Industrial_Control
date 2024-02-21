@@ -1,9 +1,0 @@
-adresses email (séparées par des virgules):
-servicequalitezf@gmail.com, antoinenaudy@gmail.com
-ensemble des défauts:
-'Test','Defaut_1','Defaut_2'
-bornes (xA,xB,xC,xD,y1,y2,y3,y4):
-xA
-y1
-xC
-y2
