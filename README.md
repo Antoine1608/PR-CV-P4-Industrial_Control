@@ -1,4 +1,4 @@
-API pour réaliser du contrôle caméra industriel à partir d'un smartphone. 
+! API pour réaliser du contrôle caméra industriel à partir d'un smartphone. 
 
 Comment ça marche ?
 
