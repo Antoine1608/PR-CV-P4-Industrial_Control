@@ -8,5 +8,5 @@ Une API streamlit distante et sur le même réseau local permet de récupérer l
 En sortie les images de défaut s'affichent à l'écran avec leurs traçabilité :
 ![Texte alternatif](https://github.com/Antoine1608/PR-CV-P4-Industrial_control/blob/main/Streamlit_screen.png?raw=true)
 
-et un document excel est généré avec la classification compléte et les images associées sous forme de miniatures :
+et un document excel est généré avec la classification complète et les images associées sous forme de miniatures :
 ![Texte alternatif](https://github.com/Antoine1608/PR-CV-P4-Industrial_control/blob/main/Result_xlsx_screen.png?raw=true)
