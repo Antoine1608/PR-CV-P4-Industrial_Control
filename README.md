@@ -9,4 +9,4 @@ En sortie les images de défaut s'affichent à l'écran avec leurs traçabilité
 ![Texte alternatif](https://github.com/Antoine1608/PR-CV-P4-Industrial_control/blob/main/Streamlit_screen.png?raw=true)
 
 et un document excel est généré avec la classification compléte et les images associées sous forme de miniatures :
-![Texte alternatif](
+![Texte alternatif](https://github.com/Antoine1608/PR-CV-P4-Industrial_control/blob/main/Result_xlsx_screen.png?raw=true)
