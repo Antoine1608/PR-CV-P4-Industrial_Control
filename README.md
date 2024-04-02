@@ -1,6 +1,6 @@
-! API pour réaliser du contrôle caméra industriel à partir d'un smartphone. 
+# API pour réaliser du contrôle caméra industriel à partir d'un smartphone. 
 
-Comment ça marche ?
+## Comment ça marche ?
 
 Le smartphone installé sur la ligne de production prend une image à intervalle régulier (en timelapse) et enregistre ces images dans un dossier interne. 
 Ce dossier est disponible sur le réseau wifi local via un serveur ouvert sur le téléphone avec une appli android (HTTP File Server par exemple). 
