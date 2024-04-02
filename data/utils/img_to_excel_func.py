@@ -14,6 +14,8 @@ from tqdm import tqdm
 # Le tableau des données d'entraînement
 #dataset_img = r"C:\Users\John\Desktop\camcontrol\data\train.xlsx"
 def imgtoexcel(dir_img, dataset_img) :
+    ''' sauvegarde dans un document xlsx dataset_img un tableau avec des thumbnails des images de dir_img 
+    et retourne le dtaframe correspondant '''
     # Initions un df d'entraînement
     df = pd.DataFrame( {
         'Image_Path': [], #image_path,

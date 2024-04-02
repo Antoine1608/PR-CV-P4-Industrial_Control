@@ -5,3 +5,8 @@ os
 pickle
 keras
 streamlit
+matplotlib
+PIL
+requests
+io 
+bs4
