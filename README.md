@@ -6,4 +6,4 @@ Le smartphone installé sur la ligne de production prend une image à intervalle
 Ce dossier est disponible sur le réseau wifi local via un serveur ouvert sur le téléphone avec une appli android (HTTP File Server par exemple). 
 Une API streamlit distante et sur le même réseau local permet de récupérer les images et les trie grâce à un algorithme entraîné. 
 En sortie les images de défaut s'affichent à l'écran avec leurs traçabilité.
-![Texte alternatif](lien_de_l_image)
+![Texte alternatif]([lien_de_l_image](https://github.com/Antoine1608/PR-CV-P4-Industrial_control/blob/main/Streamlit_screen.png?raw=true))
